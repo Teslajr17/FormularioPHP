@@ -1,0 +1,7 @@
+create database bmazariegos;
+create table usuario(
+    nombre VARCHAR(50),
+    apellido VARCHAR(50),
+    edad INT,
+    correo VARCHAR(50)
+);
